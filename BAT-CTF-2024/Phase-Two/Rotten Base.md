@@ -9,6 +9,6 @@ so to solve it:
 
 ONG{akg_TnzR_Un$_g5b_y7et6e_u3y68_7g_67pu_6aq_p7yy6q_fg3e68}
 
-![image](https://github.com/user-attachments/assets/400c2759-b6ff-4e0c-b562-ac7606998044)
+![image](https://github.com/user-attachments/assets/3e031e35-9f33-44ef-85ca-9b706dedeb23)
 
 the flag "BAT{nxt_GamE_Ha$_t5o_l7rg6r_h3l68_7t_67ch_6nd_c7ll6d_st3r68}"
