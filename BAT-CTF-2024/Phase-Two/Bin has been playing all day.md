@@ -6,7 +6,7 @@ to solve this Challenge
 first if we exiftool the image we can find a comment that has a decrypted text of some kind.
 ![image](https://github.com/user-attachments/assets/69f54d23-1bd7-49cb-9ae4-429a06cc0602)
 
-fe685a7aa83947125bd66e643d1b695ccee76f40f8534e30a7ee8fdeed5a928f380ab3a0ef7466c
+fe685a7aa83947125bd66e643d1b695ccee76f40f8534e30a7ee8fdeed5a928f380ab3a0ef7466c162c8ae4fdc2c79f6
 
 this was the first thing I found, then, i extract the hidden data using binwalk through the following command:
 **sudo binwalk -e teng-teng.png --run-as=root**
