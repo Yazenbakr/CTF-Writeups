@@ -18,7 +18,9 @@ the extracted file has many directories within it, to view everything clearly i 
 
 ![image](https://github.com/user-attachments/assets/e04cf155-722c-4698-82a7-24df1684909e)
 
+
 so i cat into the My notes.txt to see what it contains 
+
 ![image](https://github.com/user-attachments/assets/cf6891e3-5c0f-4ef2-9b34-b9c256260b85)
 
 but if you scroll upwards enough you will find hidden information
