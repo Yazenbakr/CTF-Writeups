@@ -1,6 +1,6 @@
-**Challenge name: Beneath the Fur**
-**Category: AI**
-**Difficulty: Very Easy**
+**Challenge name: Beneath the Fur**, 
+**Category: AI**, 
+**Difficulty: Very Easy**.
 
 **Description**
 N3ur0N was involved in the attack on CYNX, although the scope of his activities is not strictly related to the exploitation. We received information on him operating a secondary business related to the creation of fake IDs, his a operation is asisted by an AI tool, which is currently on our list.
