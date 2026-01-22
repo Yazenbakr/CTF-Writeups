@@ -1,6 +1,6 @@
-**Challenge name: Partners In Crime
-Category: OSINT
-Difficulty: Medium **
+**Challenge name: Partners In Crime**
+**Category: OSINT**
+**Difficulty: Medium**
 
 **Description**:
 You know all about 3ch0.
