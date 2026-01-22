@@ -1,6 +1,6 @@
-**Challenge name: Final Authority**
-**Category: AI**
-**Difficulty: Very Easy**
+**Challenge name: Final Authority**, 
+**Category: AI**, 
+**Difficulty: Very Easy**.
 
 **Description**:
 As a part of N3ur0N’s activity research, we managed to access an actual internal Corporate GRC Assistant related to his activity. The system appears to be a general AI compliance assistant, and it considers the user as nothing more than a regular employee.
